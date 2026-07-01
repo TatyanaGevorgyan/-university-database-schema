@@ -17,17 +17,9 @@ The system models a real-world university environment using 6 interconnected tab
 
 ## SQL Features & Techniques Used
 
-### Data Integrity & Constraints
-- PRIMARY KEY / FOREIGN KEY relationships  
-- NOT NULL constraints for mandatory fields  
-- CHECK constraints for validation rules  
-### Data Analytics & Aggregation
-- GROUP BY for structured reporting  
-- HAVING for filtered aggregation results  
-- Aggregate functions:
-  - AVG() — average performance metrics  
-  - COUNT() — entity statistics  
-  - MIN() / MAX() — performance boundaries  
+### Data Integrity & Constraints,Data Analytics & Aggregation
+PRIMARY KEY / FOREIGN KEY relationships ,NOT NULL constraints for mandatory fields , CHECK constraints for validation rules ,GROUP BY for structured reporting ,HAVING for filtered aggregation results  
+Aggregate functions,AVG() — average performance metrics ,COUNT() — entity statistics, MIN() / MAX() — performance boundaries  
 
 ###  String & Date Manipulation
 - LIKE pattern matching  
@@ -47,15 +39,3 @@ To simulate a scalable university database system capable of:
 - Supporting structured analytical queries  
 - Demonstrating real-world SQL database design principles  
 
-##  Tech Stack
-
-- SQL (MySQL / PostgreSQL compatible)
-- Relational Database Design
-- Data Analytics Queries  
-
-##  Summary
-
-This project demonstrates strong understanding of:
-- Relational database architecture  
-- SQL querying and optimization  
-- Data analytics in structured systems  
